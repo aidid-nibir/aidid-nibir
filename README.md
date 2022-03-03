@@ -10,26 +10,19 @@
 - 🥅 2022 Goals: Learn more about JavaScript
 <!-- - 📫 How to reach me:  -->
 
-Connect with me:
-[![alt text][1.1]][1]
-    [![alt text][2.1]][2]
-    [![alt text][3.1]][3]
-    [![alt text][4.1]][4]
-    [![alt text][5.1]][5]
-    [![alt text][6.1]][6]
-
-
-    <!-- links to social media icons -->
-    <!-- no need to change these -->
-
-    <!-- icons with padding -->
-
-    [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-    [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-    [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-    [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-    [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-    [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<!-- Optional if you have blogs -->
+## Latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- This section you create this variables that are used above -->
+[website]: https://google.com
+[twitter]: https://twitter.com/indrajeet_nikam
+[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
 
 
 ### Languages and Tools:
