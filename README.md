@@ -56,8 +56,11 @@
 <br/>
 <br/>
 
+![snake gif](https://github.com/aidid-nibir/aidid-nibir/blob/output/github-contribution-grid-snake.gif)
+
 <a href="https://github.com/aidid-nibir/github-readme-activity-graph"><img alt="Aidid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aidid-nibir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<!-- ## Now watch my contribution graph get eaten by the snake  -->
 <br/>
 <br/>
 
