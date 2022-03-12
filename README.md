@@ -1,6 +1,6 @@
 <br>
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<center><img width="50%" height="100%" src="Assets\Images\coding.png"/></center>
+<div style="text-align:center" href="#"><img width="50%" height="100%" src="Assets\Images\coding.png"/></div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aidid</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 <hr>
