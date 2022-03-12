@@ -15,6 +15,13 @@
 - 📫 How to reach me **aidid.nibir@gmail.com**
 
 - ⚡ Fun fact **I love to Draw and Play Guitar.**
+
+<br>
+<br>
+<p align="center">
+A Developer with a solid enthusiasm for projects that requireboth applied and logical Skills. Completely dedicated toplanning also, creating innovative web-based applicationsthat clients will cherish. Continuously eager to learn newtechnologies.
+</p>
+<h3 align="center"><a href="https://github.com">Take a look at My Resume</a></h3>
 <hr>
 
 ## 🚀 Languages and Tools:
