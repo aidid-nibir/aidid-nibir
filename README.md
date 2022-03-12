@@ -18,10 +18,10 @@
 
 <br>
 <br>
-<p align="center">
+<h4 align="center">
 A Developer with a solid enthusiasm for projects that requireboth applied and logical Skills. Completely dedicated toplanning also, creating innovative web-based applicationsthat clients will cherish. Continuously eager to learn newtechnologies.
-</p>
-<h3 align="center"><a href="https://github.com">Take a look at My Resume</a></h3>
+</h4>
+<h3 align="center"><a href="https://github.com/aidid-nibir/aidid-nibir/blob/main/Assets/FARAH%20IDID%20NIBIR%20RESUME.pdf/download">Take a look at My Resume</a></h3>
 <hr>
 
 ## 🚀 Languages and Tools:
