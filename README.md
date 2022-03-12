@@ -12,7 +12,7 @@
   
 - 👨‍💻 All of my public projects are available at **[My Git Repo](https://github.com/aidid-nibir?tab=repositories)**
 
-- 📫 How to reach me **aidid.nibir@gmail.com**
+- 📫 How to reach me **aidid.nibir97@gmail.com**
 
 - ⚡ Fun fact **I love to Draw and Play Guitar.**
 
