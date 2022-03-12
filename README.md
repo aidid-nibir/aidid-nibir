@@ -17,7 +17,6 @@
 - ⚡ Fun fact **I love to Draw and Play Guitar.**
 
 <br>
-<br>
 <h4 align="center">
 A Developer with a solid enthusiasm for projects that requireboth applied and logical Skills. Completely dedicated toplanning also, creating innovative web-based applicationsthat clients will cherish. Continuously eager to learn newtechnologies.
 </h4>
