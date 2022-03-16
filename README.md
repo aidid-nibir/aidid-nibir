@@ -46,7 +46,7 @@ A Developer with a solid enthusiasm for projects that requireboth applied and lo
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ribath/github-readme-streak-stats">
+    <a href="https://github.com/aidid-nibir/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aidid-nibir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
