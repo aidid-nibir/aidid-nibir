@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 <hr>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me :)
 
 - 🔭 I’m currently working on **[Burger-Builder](https://github.com/aidid-nibir/burger-builder)**
 
