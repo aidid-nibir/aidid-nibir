@@ -47,19 +47,9 @@ A Developer with a solid enthusiasm for projects that requireboth applied and lo
 
 <p align="center">
     <a href="https://github.com/aidid-nibir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aidid-nibir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aidid-nibir&date_format=M%20j%5B%2C%20Y%5D&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=aidid-nibir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak"/>
-    </a>
-</p>
-<p>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidid-nibir&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
