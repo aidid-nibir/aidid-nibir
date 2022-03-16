@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 <hr>
 
-## 🙋‍♂️ About Me :)
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Burger-Builder](https://github.com/aidid-nibir/burger-builder)**
 
@@ -50,6 +50,8 @@ A Developer with a solid enthusiasm for projects that requireboth applied and lo
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aidid-nibir&date_format=M%20j%5B%2C%20Y%5D&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<hr>
 ## 📊 My Github Stats
 
   <br/>
