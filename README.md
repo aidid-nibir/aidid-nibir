@@ -80,8 +80,8 @@ A Developer with a solid enthusiasm for projects that requireboth applied and lo
 <a href = "https://www.instagram.com/aidid_nibir/"><img style="padding: 10px;" src="https://img.icons8.com/color/60/000000/instagram.png"/></a>
 </p>
 
-<!-- ## ❤ Views and Followers
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aidid-nibir">
 </a>
-<a href="https://github.com/aidid-nibir?tab=followers"><img src="https://img.shields.io/github/followers/aidid-nibir?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/aidid-nibir?tab=followers"><img src="https://img.shields.io/github/followers/aidid-nibir?label=Followers&style=social" alt="GitHub Badge"></a>
