@@ -84,7 +84,7 @@ A Developer with a solid enthusiasm for projects that requireboth applied and lo
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/aidid-nibir/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aidid-nibir">
 </a>
 <a href="https://github.com/aidid-nibir?tab=followers"><img src="https://img.shields.io/github/followers/aidid-nibir?label=Followers&style=social" alt="GitHub Badge"></a>
