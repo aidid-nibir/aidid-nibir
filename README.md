@@ -47,8 +47,9 @@ A Developer with a solid enthusiasm for projects that requireboth applied and lo
 
 <p align="center">
     <a href="https://github.com/aidid-nibir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com?user=aidid-nibir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com?user=aidid-nibir&theme=neon-palenight&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D"/>
     </a>
+    <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidid-nibir&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
     <!-- <a href="https://github.com/aidid-nibir/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aidid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aidid-nibir&date_format=M%20j%5B%2C%20Y%5D&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> -->
